@@ -1,1 +1,2 @@
-Real-Coding in lecture_03
+Welcome!
+This repository is used to learn how to use gihub in March 23th.
